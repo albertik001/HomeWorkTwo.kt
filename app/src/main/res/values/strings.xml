@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HomeWorkTwo.kt</string>
+    <string name="random">RANDOM</string>
+    <string name="submit">SUBMIT</string>
+    <string name="link">Link</string>
+    <string name="soso">SOSI</string>
+    <string name="mimepng">image/png</string>
+    <string name="mimesvg">image/svg</string>
+    <string name="mimejpg">image/jpg</string>
+    <string name="mimejpeg">image/jpeg</string>
+    <string name="mimeapng">image/apng</string>
+    <string name="mimeavif">image/avif</string>
+    <string name="mimegif">image/gif</string>
+    <string name="mimeavp">image/avp</string>
+    <string name="mimewebp">image/webp</string>
+    <string name="mimebmp">image/bmp</string>
+    <string name="mimeiso">image/iso</string>
+    <string name="mimetiff">image/tiff</string>
+    <string name="image_one">https://clck.ru/ga7Eu</string>
+    <string name="image_two">https://clck.ru/ga7Jw</string>
+    <string name="image_three">https://clck.ru/ga7MC</string>
+    <string name="image_fouth">https://clck.ru/ga7RW</string>
+    <string name="image_five">https://clck.ru/ga7T2</string>
+    <string name="image_six">https://clck.ru/ga7TJ</string>
+    <string name="image_seven">https://clck.ru/ga7Wy</string>
+    <string name="image_eight">https://clck.ru/ga7ZE</string>
+    <string name="image_nine">https://clck.ru/ga7aD</string>
+    <string name="image_ten">https://clck.ru/ga7b4</string>
+</resources>
