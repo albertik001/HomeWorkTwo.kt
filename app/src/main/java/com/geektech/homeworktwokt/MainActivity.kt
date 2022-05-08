@@ -72,6 +72,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
         val link = submitImage(Uri.parse(imageLink.toString()))
         if (mimeTypeImageList.contains(link)) {
             binding.imRandom.setGlideImage(imageLink.toString())
+            binding.imRandom.setGlideImage(imageLink.toString())
             imageList.add(imageLink.toString())
         } else {
             Toast.makeText(this, getString(R.string.soso), Toast.LENGTH_SHORT).show()
